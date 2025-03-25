@@ -18,8 +18,8 @@ The **Excel RAG System** is a Retrieval-Augmented Generation (RAG) application t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/excel-rag-system.git
-   cd excel-rag-system
+   git clone https://github.com/SonuSV7719/Excel-RAG-System.git
+   cd Excel-RAG-System
    ```
 
 2. Install dependencies:
