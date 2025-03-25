@@ -55,7 +55,6 @@ ExcelRAGSystem/
 ├── database.py           # Handles Excel-to-SQLite database operations
 ├── llm_providers.py      # Implements LLM provider integrations
 ├── rag_system.py         # Core RAG system logic
-├── pyproject.toml        # Project metadata and dependencies
 ├── requirement.txt       # Python dependencies
 └── README.md             # Project documentation
 ```
