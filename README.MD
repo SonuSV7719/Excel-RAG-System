@@ -2,6 +2,10 @@
 
 The **Excel RAG System** is a Retrieval-Augmented Generation (RAG) application that allows users to query Excel data using natural language. It leverages AI-powered Large Language Models (LLMs) to interpret user queries, generate SQL queries, and provide insightful answers based on the data.
 
+## Live Demo
+
+https://excel-rag-system.streamlit.app/
+
 ## Features 🚀
 
 - **Upload Excel Files**: Supports `.xlsx` and `.xls` formats.
